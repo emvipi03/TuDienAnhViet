@@ -1,0 +1,114 @@
+hello
+xin chao
+bye
+tam biet
+thank you
+cam on
+money
+tien
+do
+lam
+run
+chay
+car
+o to
+house
+nha
+score
+diem
+book
+vo
+pen
+but
+pencil
+but chi
+camera
+may anh
+delete
+xoa
+edit
+sua
+view
+nhin
+lamp
+den
+help
+giup do
+file
+tep
+line
+hang
+column
+cot
+test
+bai kiem tra
+name
+ten
+red
+mau do
+blue
+mau xanh duong
+green
+mau xanh la cay
+yellow
+mau vang
+pink
+mau hong
+paper
+giay
+news
+thoi su
+new
+moi
+error
+loi
+cry
+khoc
+happy
+vui ve
+birthday
+sinh nhat
+find
+tim kiem
+look
+nhin
+result
+ket qua
+note
+luu y
+rain
+mua
+insert
+chen
+window
+cua so
+door
+cua ra vao
+ant
+kien
+copy
+sao chep
+paste
+dan
+nose
+mui
+eye
+mat
+hair
+toc
+math
+toan
+big
+to lon, rong rai
+king
+vua, chua
+long
+dai
+thin
+gay
+code
+lap trinh
+cut
+cat
+good
+tot
