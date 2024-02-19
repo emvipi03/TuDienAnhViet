@@ -16,6 +16,7 @@ void chuanHoa(char *s) {
 	}
 }
 
+// chuan hoa string
 void lower(char *s) {
 	for (int i = 0; i < strlen(s); i++) {
 		if (s[i] >= 'A' && s[i] <= 'Z') {
